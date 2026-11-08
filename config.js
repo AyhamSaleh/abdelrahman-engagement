@@ -12,5 +12,5 @@ window.INVITE = {
   venueAddress: '',                 // العنوان (اختياري — يُخفى إن كان فارغًا)
   mapsUrl: 'https://maps.app.goo.gl/eM3iSX7fPvmgnQ5r6',
 
-  musicUrl: ''          // مسار ملف موسيقى، مثال: 'music.mp3' (اختياري)
+  musicUrl: 'music.mp3'          // مسار ملف موسيقى، مثال: 'music.mp3' (اختياري)
 };
